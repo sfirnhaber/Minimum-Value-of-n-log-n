@@ -1,4 +1,4 @@
-  /*
+ /*
  * Minimum Value of n log n
  * By Sam Firnhaber
  */
